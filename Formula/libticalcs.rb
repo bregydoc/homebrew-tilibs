@@ -3,7 +3,7 @@ class Libticalcs < Formula
   homepage "https://github.com/debrouxl/tilibs/tree/master/libticalcs/trunk"
   url "https://github.com/debrouxl/tilibs/archive/master.zip"
   version "0.1"
-  sha256 "9a6a872af0d30cb2b0ce720edc8333cb79067cc22133727420229f069921fb97"
+  sha256 "3c484085a79b73cd8cc6370ea54fc20afb93839b3f65ff2c6a9f08a2f604ac28"
   
   depends_on "autoconf"
   depends_on "automake"
