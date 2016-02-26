@@ -8,7 +8,7 @@ class Tilp < Formula
   depends_on "autoconf"
   depends_on "automake"
   depends_on "pkg-config"
-  depends_on "libxml"
+  depends_on "libxml2"
   depends_on "libtool"
   depends_on "libticonv"
   depends_on "libtifiles"
