@@ -15,7 +15,8 @@ class Tilp < Formula
   depends_on "libticables"
 
   def install
-    system "./configure", "make", "install"
+    system "./configure"
+    system "make", "install"
   end
 
   test do
