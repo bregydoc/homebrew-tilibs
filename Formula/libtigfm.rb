@@ -18,7 +18,6 @@ class Libtigfm < Formula
                           "--prefix=#{prefix}",
                           "--enable-libusb10"
     system "make", "install"
-    end
   end
 
   test do
