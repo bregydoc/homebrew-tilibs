@@ -3,7 +3,7 @@ class Tilp < Formula
   homepage "http://lpg.ticalc.org/prj_tilp/index.html"
   url "http://www.ticalc.org/pub/unix/tilp.tar.gz"
   version "0.1"
-  sha256 "9a6a872af0d30cb2b0ce720edc8333cb79067cc22133727420229f069921fb97"
+  sha256 "6ba834f7fdbbce9818ccaa864222aed2d1688b210e9ff2c59576d1fde5159cd7"
   
   depends_on "autoconf"
   depends_on "automake"
